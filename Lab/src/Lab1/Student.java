@@ -6,6 +6,6 @@ public class Student{
 		String address="Bukit Cimanggu City Blok BB1 No.3A";
 		String state="West Java";
 		String experience="Full stack web development";
-		System.out.println("Name: "+name+"\nMatriculation Number: "+matricNo+"\nAddress: "+address+"\nstate: "+state+"\n is this program your first choice?: yes"+"\nexpectations from this course: discovery"+"\n previous programming experience: "+experience);
+		System.out.println("Name: "+name+"\nMatriculation Number: "+matricNo+"\nAddress: "+address+"\nState: "+state+"\nIs this program your first choice?: Yes"+"\nExpectations from this course: Discovery"+"\nPrevious programming experience: "+experience);
 	}
 }
