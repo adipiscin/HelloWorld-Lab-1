@@ -1,0 +1,11 @@
+package Lab1;
+public class MakingMoneyATM{
+	public static void main(String[] args) {
+		String asciiArt = 	"█   █  ███  █   █ ███ █   █  ███     █   █  ███  █   █ █████ █   █     ███  █████ █   █ \n" +
+                			"██ ██ █   █ █  █   █  ██  █ █        ██ ██ █   █ ██  █ █      █ █     █   █   █   ██ ██ \n" +
+                			"█ █ █ █████ ███    █  █ █ █ █  ██    █ █ █ █   █ █ █ █ ████    █      █████   █   █ █ █ \n" +
+                			"█   █ █   █ █  █   █  █  ██ █   █    █   █ █   █ █  ██ █       █      █   █   █   █   █ \n" +
+                			"█   █ █   █ █   █ ███ █   █  ███     █   █  ███  █   █ █████   █      █   █   █   █   █ \n\n";
+		System.out.println(asciiArt+"Welcome!");
+	}
+}
