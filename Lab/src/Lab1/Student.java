@@ -1,7 +1,7 @@
 package Lab1;
 public class Student{
 	public static void main(String[] args) {
-		String name="Tegar";
+		String name="Tegar Maulana Pratama Lubis";
 		String matricNo="BC265011";
 		String address="Bukit Cimanggu City Blok BB1 No.3A";
 		String state="West Java";
